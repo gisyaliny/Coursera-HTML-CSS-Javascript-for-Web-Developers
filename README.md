@@ -10,3 +10,8 @@ This repository contains my solutions to the assignments of the Coursera course 
 
 * [Model2-solution](https://gisyaliny.github.io/Coursera-HTML-CSS-Javascript-for-Web-Developers/module2-solution/index.htm)
 
+### Module 3
+
+* [Exercise03-Description](https://gisyaliny.github.io/Coursera-HTML-CSS-Javascript-for-Web-Developers/module3-solution/Module3-Coding-Assignment.pdf)
+
+* [Model3-solution](https://gisyaliny.github.io/Coursera-HTML-CSS-Javascript-for-Web-Developers/module3-solution/index.htm)
